@@ -1,5 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=300&section=header&text=Yoozung&fontSize=90)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yoozung&fontSize=90)
 
 <!--
 **yoozung/Yoozung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">Hi, there!</p>
+## Hi, there!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoozung&&show_icons=true&theme=vue)
 
