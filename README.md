@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=300&section=header&text=Yoozung&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=e6fccf&height=300&section=header&text=Yoozung&fontSize=90)
 
 
-<!--
+<!--F0EAD6 EDF1FF / e6fccf e8ffe8
 **yoozung/Yoozung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 -  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+&NewLine;
+<br>
+<br>
+<br>
+<br>
 
 ## Hi, there!
 
