@@ -23,5 +23,20 @@ Here are some ideas to get you started:
 -->
 ## Hi, there!
 
+
+### 🔧 Stack 
+<a><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+
+<br>
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoozung&&show_icons=true&theme=vue)
 
